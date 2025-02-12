@@ -1,4 +1,4 @@
-# MC-MC_NoJumpFix
+# MC禁止连跳/MC_NoJumpFix
 # 《我的世界》长按空格连跳修复工具
 
 ## 🚀 功能亮点
