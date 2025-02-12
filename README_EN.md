@@ -4,7 +4,6 @@
 ### **英文版 README.md**
 ```markdown
 # MC NoJumpFix - Minecraft Hold-to-Jump Disabler  
-![GitHub License](https://img.shields.io/badge/license-AGPL--3.0-red)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue)
 
 A tool designed for Minecraft parkour maps, completely preventing accidental continuous jumps caused by holding the spacebar. One-click execution, zero dependencies!
