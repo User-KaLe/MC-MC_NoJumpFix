@@ -1,4 +1,4 @@
-# MC NoJumpFix - 《我的世界》长按空格连跳禁用工具
+# MC NoHoldJump- 《我的世界》长按空格连跳禁用工具
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue)
 
