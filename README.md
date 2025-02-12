@@ -3,13 +3,14 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue)
 
 专为《我的世界》跑酷地图设计的工具，彻底解决长按空格键导致的意外连跳问题。一键运行，零配置依赖！
+A tool designed for Minecraft parkour maps, completely preventing accidental continuous jumps caused by holding the spacebar. One-click execution, zero dependencies!
 
 ## 🚀 功能亮点
 
 - **精准拦截长按空格**  
-  ✅ 短按空格 → 正常跳跃 1 次  
-  ✅ 长按空格 → **仅触发单次跳跃**（按住不放不会连跳）  
-  ✅ 快速连点空格 → 保留手动多次跳跃的自由度  
+  ✅ 短按空格 → 正常跳跃 1 次                          Short press Space → Normal jump (1 time)  
+  ✅ 长按空格 → **仅触发单次跳跃**（按住不放不会连跳）   Long press Space → **Single jump only** (no continuous jumps)  
+  ✅ 快速连点空格 → 保留手动多次跳跃的自由度            Rapid clicks → Manual multi-jumps preserved  
 
 - **轻量无感运行**  
   🔋 后台内存占用 < 1MB，不影响游戏性能  
