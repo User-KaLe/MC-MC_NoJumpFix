@@ -29,7 +29,7 @@ A tool designed for Minecraft parkour maps, completely preventing accidental con
 
 ## 📥 Download & Usage
 ### Step 1: Download
-Download the latest `MC_NoJumpFix.exe` from [Releases page](https://github.com/yourusername/MC_NoJumpFix/releases).
+Download the latest `NoHoldJumpFix.exe` from [Releases page](https://github.com/yourusername/NoHoldJumpFix/releases).
 
 ### Step 2: Run
 - **Right-click file** → **Run as Administrator**  
